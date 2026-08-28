@@ -32,7 +32,11 @@ The `./derivatives/` folder contains all data derivatives, including the stimulu
 - **Session 7:**
     - **Run 16:** The EEG recording only contains the first 64 (out of 66) video trials.
 
-### 👁️ Missing eye tracking data 
+### 👁️ Missing/Bad eye tracking data 
+
+#### Subject 3
+
+- Subject 3 exhibited more substantial eye movements, which are likely the result of calibration difficulties associated with wearing glasses, rather than actual eye movements per se.
 
 #### Subject 4
 
