@@ -1,0 +1,40 @@
+{
+    "onset": {
+        "Description": "Onset of the event measured from the beginning of the eyetracking recording.",
+        "Units": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of the video (measured from onset) in seconds.",
+        "Units": "seconds"
+    },
+    "event_type": {
+        "Description": "Type of the event",
+        "Levels": {
+            "blink": "Blink event",
+            "stimulus": "Stimulus (video) presentation event"
+        }
+    },
+    "trial_num": {
+        "LongName": "Trial Number",
+        "Description": "Number of each trial within a run, in the range [1, 66]."
+    },
+    "stim_id": {
+        "LongName": "Stimulus ID",
+        "Description": "Index indicating the number ID of the presented video. Stimuli with stim_id in the range [1, 1000] belong to the training split, and stimuli with stim_id in the range [1001, 1102] belong to the test split."
+    },
+    "is_task": {
+        "Description": "Whether the trial required an active behavioral response",
+        "Levels": {
+            "0": "Passive/non-task trial",
+            "1": "Task trial"
+        }
+    },
+    "correct": {
+        "Description": "Behavioral response accuracy",
+        "Levels": {
+            "0": "Incorrect response",
+            "1": "Correct response",
+            "2": "Non-task trial (no response expected)"
+        }
+    }
+}
