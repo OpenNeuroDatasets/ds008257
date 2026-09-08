@@ -1,0 +1,23 @@
+{
+    "EEGReference": "Fz",
+    "EEGGround": "Fpz",
+    "SamplingFrequency": 1000,
+    "PowerLineFrequency": 50,
+    "SoftwareFilters":{
+        "LowpassFilter": {
+            "MaximumFrequency": 280
+        }
+    },
+    "EEGChannelCount": 128,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "EOGChannelCount": 0,
+    "RecordingType": "continuous",
+    "EEGPlacementScheme": "10-10",
+    "CapManufacturer": "EasyCap",
+    "CapManufacturersModelName": "antiCAP snap",
+    "Manufacturer": "Brain Vision",
+    "ManufacturersModelName": "actiCHamp Plus",
+    "TaskName": "video",
+    "InstitutionName": "Freie Universit\u00e4t Berlin"
+}
