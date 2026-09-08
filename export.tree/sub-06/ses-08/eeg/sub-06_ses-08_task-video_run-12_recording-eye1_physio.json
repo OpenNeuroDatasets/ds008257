@@ -1,9 +1,0 @@
-{
-    "StartTime": 41.375,
-    "RecordedEye": "right",
-    "PupilFitMethod": "CENTROID",
-    "CalibrationCount": 2,
-    "CalibrationType": "HV9",
-    "AverageCalibrationError": 1.1122222222222222,
-    "MaximalCalibrationError": 2.38
-}
