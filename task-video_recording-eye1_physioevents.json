@@ -37,6 +37,14 @@
             "2": "Non-task trial (no response expected)"
         }
     },
+    "trial_type": {
+        "Levels": {
+            "video": "Video onset; duration covers the 3-s video presentation"
+        },
+        "HED": {
+            "video": "Sensory-event, Experimental-stimulus, Visual-presentation, Auditory-presentation, Audiovisual-clip"
+        }
+    },
     "SampleCoordinateSystem": "gaze-on-screen",
     "ManufacturersModelName": "EyeLink 1000",
     "DeviceSerialNumber": "CL1-82113",
