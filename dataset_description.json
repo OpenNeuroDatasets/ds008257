@@ -14,7 +14,7 @@
     ],
     "HowToAcknowledge": "Gifford AT, Oyarzo P, Zonneveld AW, Sartzetaki C, Groen IIA, Cichy RM. 2026. A large dataset of human EEG responses to short naturalistic videos for studying dynamic visual event processing. arXiv. DOI: https://doi.org/10.48550/arXiv.2608.28768",
     "EthicsApprovals": [
-        "Procedures were approved by the ethical committee of the Department of Education and Psychology at Freie Universit\u00e4t Berlin and were in accordance with the Declaration of Helsinki."
+        "Procedures were approved by the ethical committee of the Department of Education and Psychology at Freie Universität Berlin and were in accordance with the Declaration of Helsinki."
     ],
     "ReferencesAndLinks": [
         "Paper: https://doi.org/10.48550/arXiv.2608.28768",
@@ -32,5 +32,6 @@
         {
             "URL": "https://openneuro.org/datasets/ds005165"
         }
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008257.v1.1.0"
 }
