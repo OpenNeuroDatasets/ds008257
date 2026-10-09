@@ -29,5 +29,22 @@
             "1": "Correct response",
             "2": "Non-task trial (no response expected)"
         }
+    },
+    "trial_type": {
+        "HED": {
+            "video": "Sensory-event, Experimental-stimulus, Visual-presentation, Auditory-presentation, Audiovisual-clip"
+        }
+    },
+    "StimulusPresentation": {
+        "ScreenDistance": 0.6,
+        "ScreenOrigin": ["top", "left"],
+        "ScreenRefreshRate": 60,
+        "ScreenResolution": [1680, 1050],
+        "ScreenSize": [0.475, 0.297],
+        "OperatingSystem": "Windows 10",
+        "SoftwareName": "Psychtoolbox",
+        "SoftwareRRID": "RRID:SCR_002881",
+        "Code": "https://github.com/gifale95/EMD/tree/main/00a_experimental_paradigm",
+        "HeadStabilization": "chin-rest"
     }
 }
