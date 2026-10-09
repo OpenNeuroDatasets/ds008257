@@ -1,12 +1,4 @@
 {
-    "onset": {
-        "Description": "Onset of the video measured from the beginning of the EEG recording.",
-        "Units": "seconds"
-    },
-    "duration": {
-        "Description": "Duration of the video (measured from onset) in seconds.",
-        "Units": "seconds"
-    },
     "trial_num": {
         "LongName": "Trial Number",
         "Description": "Number of each trial within a run, in the range [1, 66]."
@@ -31,6 +23,9 @@
         }
     },
     "trial_type": {
+        "Levels": {
+            "video": "Video onset; duration covers the 3-s video presentation"
+        },
         "HED": {
             "video": "Sensory-event, Experimental-stimulus, Visual-presentation, Auditory-presentation, Audiovisual-clip"
         }
